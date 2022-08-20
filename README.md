@@ -1,4 +1,4 @@
-# Create-City-Skyline-using-CSS-Variables
+# Create-City-Skyline-using-CSS-Custom
 
 Live Preview : https://endearing-parfait-b13789.netlify.app
 
